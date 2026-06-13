@@ -43,5 +43,6 @@ Raw Messy Data → Python Cleaning → Analysis → Power BI Dashboard
 ![Dashboard](dashboard_preview.png)
 
 ## Data Note
-Synthetic data modelled after real UAE VAT billing structures 
-(5% standard rate, FTA quarterly filing format).
+Data is synthetic but modelled after real UAE VAT billing 
+structures observed during internship experience at a UAE 
+typing centre (5% standard rate, FTA quarterly filing format).
