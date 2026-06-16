@@ -40,7 +40,7 @@ Raw Messy Data → Python Cleaning → Analysis → Power BI Dashboard
 | `UAE_VAT_Dashboard.pbix` | Interactive Power BI dashboard |
 
 ## Dashboard Preview
-![Dashboard](dashboard_preview.png)
+![Dashboard](Dashboard_Preview.png)
 
 ## Data Note
 Data is synthetic but modelled after real UAE VAT billing 
